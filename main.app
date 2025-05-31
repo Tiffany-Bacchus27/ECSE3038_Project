@@ -8,7 +8,7 @@
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
 
-// API endpoint (you can customize this if you're using a backend or dashboard)
+// API endpoint
 const char* serverName = "https://simple-smart-hub-client.netlify.app";
 
 // GPIO pin definitions
